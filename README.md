@@ -1,2 +1,2 @@
 # FlexBox
-Posicionamento de elementos com flexbox
+Posicionamento dos elementos com flexbox.
